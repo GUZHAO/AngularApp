@@ -1,0 +1,425 @@
+[
+ {
+   "Rank": "C",
+   "Ability": "Spark",
+   "Modifier": "Maul",
+   "Target": "Single",
+   "Range": "",
+   "ElementEffect": "Thunder",
+   "Damage": "Light"
+ },
+ {
+   "Rank": "B",
+   "Ability": "Wind Shear",
+   "Modifier": "Slash",
+   "Target": "Single",
+   "Range": "",
+   "ElementEffect": "",
+   "Damage": "Moderate"
+ },
+ {
+   "Rank": "B",
+   "Ability": "Double Time",
+   "Modifier": "",
+   "Target": "Single",
+   "Range": "",
+   "ElementEffect": "SPD Up",
+   "Damage": ""
+ },
+ {
+   "Rank": "A",
+   "Ability": "Caustic Blast",
+   "Modifier": "Maul",
+   "Target": "Area",
+   "Range": "",
+   "ElementEffect": "Lytic",
+   "Damage": "Heavy"
+ },
+ {
+   "Rank": "A",
+   "Ability": "Permafrost",
+   "Modifier": "Slash",
+   "Target": "Union",
+   "Range": "Long",
+   "ElementEffect": "Frost",
+   "Damage": "Heavy"
+ },
+ {
+   "Rank": "S",
+   "Ability": "Wildfire",
+   "Modifier": "Maul",
+   "Target": "Union",
+   "Range": "Long",
+   "ElementEffect": "Flame",
+   "Damage": "Substantial"
+ },
+ {
+   "Rank": "S",
+   "Ability": "Grenade Impact",
+   "Modifier": "Bludgeon",
+   "Target": "Union",
+   "Range": "",
+   "ElementEffect": "Flame",
+   "Damage": "Substantial"
+ },
+ {
+   "Rank": "C",
+   "Ability": "Mystic Missile",
+   "Modifier": "Pierce",
+   "Target": "Single",
+   "Range": "Long",
+   "ElementEffect": "",
+   "Damage": "Light"
+ },
+ {
+   "Rank": "B",
+   "Ability": "Flash Arrow",
+   "Modifier": "Pierce",
+   "Target": "Single",
+   "Range": "Long",
+   "ElementEffect": "",
+   "Damage": "Moderate"
+ },
+ {
+   "Rank": "B",
+   "Ability": "Silencer",
+   "Modifier": "Pierce",
+   "Target": "Union",
+   "Range": "Long",
+   "ElementEffect": "Silence",
+   "Damage": "Moderate"
+ },
+ {
+   "Rank": "B",
+   "Ability": "Eclipse",
+   "Modifier": "Pierce",
+   "Target": "Union",
+   "Range": "Long",
+   "ElementEffect": "",
+   "Damage": "Moderate"
+ },
+ {
+   "Rank": "A",
+   "Ability": "Snare Shot",
+   "Modifier": "Pierce",
+   "Target": "Area",
+   "Range": "Long",
+   "ElementEffect": "Black Out",
+   "Damage": "Heavy"
+ },
+ {
+   "Rank": "S",
+   "Ability": "Palsy Skein",
+   "Modifier": "Maul",
+   "Target": "Union",
+   "Range": "Long",
+   "ElementEffect": "Paralyze",
+   "Damage": "Substantial"
+ },
+ {
+   "Rank": "S",
+   "Ability": "Mystic Mine",
+   "Modifier": "Maul",
+   "Target": "Union",
+   "Range": "",
+   "ElementEffect": "",
+   "Damage": "Substantial"
+ },
+ {
+   "Rank": "C",
+   "Ability": "Poison Gas",
+   "Modifier": "Maul",
+   "Target": "Union",
+   "Range": "Long",
+   "ElementEffect": "Venom",
+   "Damage": "Light"
+ },
+ {
+   "Rank": "B",
+   "Ability": "Paralyze Gas",
+   "Modifier": "Maul",
+   "Target": "Union",
+   "Range": "Long",
+   "ElementEffect": "Paralyze",
+   "Damage": "Moderate"
+ },
+ {
+   "Rank": "B",
+   "Ability": "Silent Gas",
+   "Modifier": "Pierce",
+   "Target": "Union",
+   "Range": "Long",
+   "ElementEffect": "Silence",
+   "Damage": "Moderate"
+ },
+ {
+   "Rank": "B",
+   "Ability": "Smoke Canister",
+   "Modifier": "Maul",
+   "Target": "Union",
+   "Range": "Long",
+   "ElementEffect": "",
+   "Damage": "Moderate"
+ },
+ {
+   "Rank": "A",
+   "Ability": "Dispirit",
+   "Modifier": "Bludgeon",
+   "Target": "Union",
+   "Range": "",
+   "ElementEffect": "Morale Down",
+   "Damage": "Heavy"
+ },
+ {
+   "Rank": "S",
+   "Ability": "Bewitch",
+   "Modifier": "Bludgeon",
+   "Target": "Union",
+   "Range": "Long",
+   "ElementEffect": "Morale Down",
+   "Damage": "Substantial"
+ },
+ {
+   "Rank": "S",
+   "Ability": "Cachexia",
+   "Modifier": "Maul",
+   "Target": "Union",
+   "Range": "",
+   "ElementEffect": "Clear AP",
+   "Damage": "Substantial"
+ },
+ {
+   "Rank": "Rank",
+   "Ability": "Ability",
+   "Modifier": "Modifier",
+   "Target": "Target",
+   "Range": "Range",
+   "ElementEffect": "ElementEffect",
+   "Damage": "Damage"
+ },
+ {
+   "Rank": "C",
+   "Ability": "Restore",
+   "Modifier": "",
+   "Target": "Single",
+   "Range": "",
+   "ElementEffect": "Recovery",
+   "Damage": ""
+ },
+ {
+   "Rank": "B",
+   "Ability": "Refresh",
+   "Modifier": "",
+   "Target": "Single",
+   "Range": "",
+   "ElementEffect": "Clear Status Ailments",
+   "Damage": ""
+ },
+ {
+   "Rank": "B",
+   "Ability": "Rejuvenate",
+   "Modifier": "",
+   "Target": "Union",
+   "Range": "",
+   "ElementEffect": "Clear Stat Debuffs",
+   "Damage": ""
+ },
+ {
+   "Rank": "A",
+   "Ability": "Revitalize",
+   "Modifier": "",
+   "Target": "Union",
+   "Range": "Long",
+   "ElementEffect": "Recovery",
+   "Damage": ""
+ },
+ {
+   "Rank": "S",
+   "Ability": "Support",
+   "Modifier": "",
+   "Target": "Union",
+   "Range": "Long",
+   "ElementEffect": "STR / INT / SPD Up",
+   "Damage": ""
+ },
+ {
+   "Rank": "S",
+   "Ability": "Kiss of Life",
+   "Modifier": "",
+   "Target": "Union",
+   "Range": "",
+   "ElementEffect": "Revive",
+   "Damage": ""
+ },
+ {
+   "Rank": "S",
+   "Ability": "Second Chance",
+   "Modifier": "",
+   "Target": "Union",
+   "Range": "",
+   "ElementEffect": "Revive / Clear Status Ailments",
+   "Damage": ""
+ },
+ {
+   "Rank": "C",
+   "Ability": "Bluff",
+   "Modifier": "Maul",
+   "Target": "Union",
+   "Range": "Long",
+   "ElementEffect": "Morale Down",
+   "Damage": ""
+ },
+ {
+   "Rank": "B",
+   "Ability": "Confuse",
+   "Modifier": "Maul",
+   "Target": "Union",
+   "Range": "Long",
+   "ElementEffect": "Paralyze",
+   "Damage": "Moderate"
+ },
+ {
+   "Rank": "B",
+   "Ability": "Enrage",
+   "Modifier": "Maul",
+   "Target": "Union",
+   "Range": "Long",
+   "ElementEffect": "ATK Up / DEF Down",
+   "Damage": "Moderate"
+ },
+ {
+   "Rank": "B",
+   "Ability": "Addle",
+   "Modifier": "Pierce",
+   "Target": "Union",
+   "Range": "Long",
+   "ElementEffect": "Morale Down",
+   "Damage": "Moderate"
+ },
+ {
+   "Rank": "A",
+   "Ability": "Maledict",
+   "Modifier": "Maul",
+   "Target": "Union",
+   "Range": "Long",
+   "ElementEffect": "Curse",
+   "Damage": "Moderate"
+ },
+ {
+   "Rank": "S",
+   "Ability": "Stealth",
+   "Modifier": "",
+   "Target": "Union",
+   "Range": "Long",
+   "ElementEffect": "Stealth",
+   "Damage": ""
+ },
+ {
+   "Rank": "S",
+   "Ability": "Mixed Message",
+   "Modifier": "Pierce",
+   "Target": "Union",
+   "Range": "",
+   "ElementEffect": "Morale Down",
+   "Damage": ""
+ },
+ {
+   "Rank": "C",
+   "Ability": "Orphic Ward",
+   "Modifier": "",
+   "Target": "Single (XBOX)\nUnion (PC)",
+   "Range": "Long",
+   "ElementEffect": "Orphic Ward",
+   "Damage": ""
+ },
+ {
+   "Rank": "A",
+   "Ability": "Protection",
+   "Modifier": "",
+   "Target": "Single (XBOX)\nUnion (PC)",
+   "Range": "Long",
+   "ElementEffect": "Protection",
+   "Damage": ""
+ },
+ {
+   "Rank": "S",
+   "Ability": "Decoy",
+   "Modifier": "",
+   "Target": "Union",
+   "Range": "Long",
+   "ElementEffect": "Decoy",
+   "Damage": ""
+ },
+ {
+   "Rank": "SS",
+   "Ability": "Cheer",
+   "Modifier": "",
+   "Target": "Union",
+   "Range": "Long",
+   "ElementEffect": "Morale Up",
+   "Damage": ""
+ },
+ {
+   "Rank": "SS",
+   "Ability": "Band of Champions",
+   "Modifier": "",
+   "Target": "Union",
+   "Range": "",
+   "ElementEffect": "Stats Up",
+   "Damage": ""
+ },
+ {
+   "Rank": "A",
+   "Ability": "Blackout",
+   "Modifier": "Slash",
+   "Target": "All",
+   "Range": "Long",
+   "ElementEffect": "Thunder",
+   "Damage": "Substantial"
+ },
+ {
+   "Rank": "S",
+   "Ability": "Whiteout",
+   "Modifier": "Bludgeon",
+   "Target": "All",
+   "Range": "Long",
+   "ElementEffect": "Frost",
+   "Damage": "Substantial"
+ },
+ {
+   "Rank": "SS",
+   "Ability": "Animalcule",
+   "Modifier": "Bludgeon",
+   "Target": "All",
+   "Range": "Long",
+   "ElementEffect": "Paralyze / Silence / Poison / Black Out",
+   "Damage": "Heavy"
+ },
+ {
+   "Rank": "SS",
+   "Ability": "Rejuvenating Water",
+   "Modifier": "",
+   "Target": "All",
+   "Range": "Long",
+   "ElementEffect": "Recovery",
+   "Damage": ""
+ },
+ {
+   "Rank": "SS",
+   "Ability": "Fatal Eclipse",
+   "Modifier": "Omni",
+   "Target": "All",
+   "Range": "Long",
+   "ElementEffect": "",
+   "Damage": "Extreme"
+ },
+ {
+   "Rank": "SS",
+   "Ability": "Crimson Flare",
+   "Modifier": "Omni",
+   "Target": "All",
+   "Range": "Long",
+   "ElementEffect": "",
+   "Damage": "Extreme"
+ }
+]
