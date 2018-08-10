@@ -1,5 +1,6 @@
 [
- {
+ { 
+   "Category": "Invocation",
    "Rank": "C",
    "Ability": "Spark",
    "Modifier": "Maul",
@@ -9,6 +10,7 @@
    "Damage": "Light"
  },
  {
+   "Category": "Invocation",
    "Rank": "B",
    "Ability": "Wind Shear",
    "Modifier": "Slash",
@@ -18,6 +20,7 @@
    "Damage": "Moderate"
  },
  {
+   "Category": "Invocation",
    "Rank": "B",
    "Ability": "Double Time",
    "Modifier": "",
@@ -26,7 +29,8 @@
    "ElementEffect": "SPD Up",
    "Damage": ""
  },
- {
+ { 
+   "Category": "Invocation",
    "Rank": "A",
    "Ability": "Caustic Blast",
    "Modifier": "Maul",
@@ -35,7 +39,8 @@
    "ElementEffect": "Lytic",
    "Damage": "Heavy"
  },
- {
+ { 
+   "Category": "Invocation",
    "Rank": "A",
    "Ability": "Permafrost",
    "Modifier": "Slash",
@@ -44,7 +49,8 @@
    "ElementEffect": "Frost",
    "Damage": "Heavy"
  },
- {
+ { 
+   "Category": "Invocation",
    "Rank": "S",
    "Ability": "Wildfire",
    "Modifier": "Maul",
@@ -53,7 +59,8 @@
    "ElementEffect": "Flame",
    "Damage": "Substantial"
  },
- {
+ { 
+   "Category": "Invocation",
    "Rank": "S",
    "Ability": "Grenade Impact",
    "Modifier": "Bludgeon",
@@ -62,7 +69,8 @@
    "ElementEffect": "Flame",
    "Damage": "Substantial"
  },
- {
+ { 
+   "Category": "Evocation",
    "Rank": "C",
    "Ability": "Mystic Missile",
    "Modifier": "Pierce",
@@ -71,7 +79,8 @@
    "ElementEffect": "",
    "Damage": "Light"
  },
- {
+ { 
+   "Category": "Evocation",
    "Rank": "B",
    "Ability": "Flash Arrow",
    "Modifier": "Pierce",
@@ -80,7 +89,8 @@
    "ElementEffect": "",
    "Damage": "Moderate"
  },
- {
+ { 
+   "Category": "Evocation",
    "Rank": "B",
    "Ability": "Silencer",
    "Modifier": "Pierce",
@@ -89,7 +99,8 @@
    "ElementEffect": "Silence",
    "Damage": "Moderate"
  },
- {
+ { 
+   "Category": "Evocation",
    "Rank": "B",
    "Ability": "Eclipse",
    "Modifier": "Pierce",
@@ -98,7 +109,8 @@
    "ElementEffect": "",
    "Damage": "Moderate"
  },
- {
+ { 
+   "Category": "Evocation",
    "Rank": "A",
    "Ability": "Snare Shot",
    "Modifier": "Pierce",
@@ -107,7 +119,8 @@
    "ElementEffect": "Black Out",
    "Damage": "Heavy"
  },
- {
+ { 
+   "Category": "Evocation",
    "Rank": "S",
    "Ability": "Palsy Skein",
    "Modifier": "Maul",
@@ -116,7 +129,8 @@
    "ElementEffect": "Paralyze",
    "Damage": "Substantial"
  },
- {
+ { 
+   "Category": "Evocation",
    "Rank": "S",
    "Ability": "Mystic Mine",
    "Modifier": "Maul",
@@ -125,7 +139,8 @@
    "ElementEffect": "",
    "Damage": "Substantial"
  },
- {
+ { 
+   "Category": "Hex",
    "Rank": "C",
    "Ability": "Poison Gas",
    "Modifier": "Maul",
@@ -134,7 +149,8 @@
    "ElementEffect": "Venom",
    "Damage": "Light"
  },
- {
+ { 
+   "Category": "Hex",
    "Rank": "B",
    "Ability": "Paralyze Gas",
    "Modifier": "Maul",
@@ -143,7 +159,8 @@
    "ElementEffect": "Paralyze",
    "Damage": "Moderate"
  },
- {
+ { 
+   "Category": "Hex",
    "Rank": "B",
    "Ability": "Silent Gas",
    "Modifier": "Pierce",
@@ -152,7 +169,8 @@
    "ElementEffect": "Silence",
    "Damage": "Moderate"
  },
- {
+ { 
+   "Category": "Hex",
    "Rank": "B",
    "Ability": "Smoke Canister",
    "Modifier": "Maul",
@@ -161,7 +179,8 @@
    "ElementEffect": "",
    "Damage": "Moderate"
  },
- {
+ { 
+   "Category": "Hex",
    "Rank": "A",
    "Ability": "Dispirit",
    "Modifier": "Bludgeon",
@@ -170,7 +189,8 @@
    "ElementEffect": "Morale Down",
    "Damage": "Heavy"
  },
- {
+ { 
+   "Category": "Hex",
    "Rank": "S",
    "Ability": "Bewitch",
    "Modifier": "Bludgeon",
@@ -180,6 +200,7 @@
    "Damage": "Substantial"
  },
  {
+   "Category": "Hex",
    "Rank": "S",
    "Ability": "Cachexia",
    "Modifier": "Maul",
@@ -188,16 +209,8 @@
    "ElementEffect": "Clear AP",
    "Damage": "Substantial"
  },
- {
-   "Rank": "Rank",
-   "Ability": "Ability",
-   "Modifier": "Modifier",
-   "Target": "Target",
-   "Range": "Range",
-   "ElementEffect": "ElementEffect",
-   "Damage": "Damage"
- },
- {
+ { 
+   "Category": "Remedy",
    "Rank": "C",
    "Ability": "Restore",
    "Modifier": "",
@@ -206,7 +219,8 @@
    "ElementEffect": "Recovery",
    "Damage": ""
  },
- {
+ { 
+   "Category": "Remedy",
    "Rank": "B",
    "Ability": "Refresh",
    "Modifier": "",
@@ -215,7 +229,8 @@
    "ElementEffect": "Clear Status Ailments",
    "Damage": ""
  },
- {
+ { 
+   "Category": "Remedy",
    "Rank": "B",
    "Ability": "Rejuvenate",
    "Modifier": "",
@@ -224,7 +239,8 @@
    "ElementEffect": "Clear Stat Debuffs",
    "Damage": ""
  },
- {
+ { 
+   "Category": "Remedy",
    "Rank": "A",
    "Ability": "Revitalize",
    "Modifier": "",
@@ -234,6 +250,7 @@
    "Damage": ""
  },
  {
+   "Category": "Remedy",
    "Rank": "S",
    "Ability": "Support",
    "Modifier": "",
@@ -242,7 +259,8 @@
    "ElementEffect": "STR / INT / SPD Up",
    "Damage": ""
  },
- {
+ { 
+   "Category": "Remedy",
    "Rank": "S",
    "Ability": "Kiss of Life",
    "Modifier": "",
@@ -251,7 +269,8 @@
    "ElementEffect": "Revive",
    "Damage": ""
  },
- {
+ { 
+   "Category": "Remedy",
    "Rank": "S",
    "Ability": "Second Chance",
    "Modifier": "",
@@ -260,7 +279,8 @@
    "ElementEffect": "Revive / Clear Status Ailments",
    "Damage": ""
  },
- {
+ { 
+   "Category": "Psionic",
    "Rank": "C",
    "Ability": "Bluff",
    "Modifier": "Maul",
@@ -269,7 +289,8 @@
    "ElementEffect": "Morale Down",
    "Damage": ""
  },
- {
+ { 
+   "Category": "Psionic",
    "Rank": "B",
    "Ability": "Confuse",
    "Modifier": "Maul",
@@ -279,6 +300,7 @@
    "Damage": "Moderate"
  },
  {
+   "Category": "Psionic",
    "Rank": "B",
    "Ability": "Enrage",
    "Modifier": "Maul",
@@ -287,7 +309,8 @@
    "ElementEffect": "ATK Up / DEF Down",
    "Damage": "Moderate"
  },
- {
+ { 
+   "Category": "Psionic",
    "Rank": "B",
    "Ability": "Addle",
    "Modifier": "Pierce",
@@ -296,7 +319,8 @@
    "ElementEffect": "Morale Down",
    "Damage": "Moderate"
  },
- {
+ { 
+   "Category": "Psionic",
    "Rank": "A",
    "Ability": "Maledict",
    "Modifier": "Maul",
@@ -305,7 +329,8 @@
    "ElementEffect": "Curse",
    "Damage": "Moderate"
  },
- {
+ { 
+   "Category": "Psionic",
    "Rank": "S",
    "Ability": "Stealth",
    "Modifier": "",
@@ -314,7 +339,8 @@
    "ElementEffect": "Stealth",
    "Damage": ""
  },
- {
+ { 
+   "Category": "Psionic",
    "Rank": "S",
    "Ability": "Mixed Message",
    "Modifier": "Pierce",
@@ -323,7 +349,8 @@
    "ElementEffect": "Morale Down",
    "Damage": ""
  },
- {
+ { 
+   "Category": "Ward",
    "Rank": "C",
    "Ability": "Orphic Ward",
    "Modifier": "",
@@ -332,7 +359,8 @@
    "ElementEffect": "Orphic Ward",
    "Damage": ""
  },
- {
+ { 
+   "Category": "Ward",
    "Rank": "A",
    "Ability": "Protection",
    "Modifier": "",
@@ -342,6 +370,7 @@
    "Damage": ""
  },
  {
+   "Category": "Ward",
    "Rank": "S",
    "Ability": "Decoy",
    "Modifier": "",
@@ -350,7 +379,8 @@
    "ElementEffect": "Decoy",
    "Damage": ""
  },
- {
+ { 
+   "Category": "Ward",
    "Rank": "SS",
    "Ability": "Cheer",
    "Modifier": "",
@@ -359,7 +389,8 @@
    "ElementEffect": "Morale Up",
    "Damage": ""
  },
- {
+ { 
+   "Category": "Ward",
    "Rank": "SS",
    "Ability": "Band of Champions",
    "Modifier": "",
@@ -368,7 +399,8 @@
    "ElementEffect": "Stats Up",
    "Damage": ""
  },
- {
+ { 
+   "Category": "Arcana",
    "Rank": "A",
    "Ability": "Blackout",
    "Modifier": "Slash",
@@ -378,6 +410,7 @@
    "Damage": "Substantial"
  },
  {
+   "Category": "Arcana",
    "Rank": "S",
    "Ability": "Whiteout",
    "Modifier": "Bludgeon",
@@ -386,7 +419,8 @@
    "ElementEffect": "Frost",
    "Damage": "Substantial"
  },
- {
+ { 
+   "Category": "Arcana",
    "Rank": "SS",
    "Ability": "Animalcule",
    "Modifier": "Bludgeon",
@@ -395,7 +429,8 @@
    "ElementEffect": "Paralyze / Silence / Poison / Black Out",
    "Damage": "Heavy"
  },
- {
+ { 
+   "Category": "Arcana",
    "Rank": "SS",
    "Ability": "Rejuvenating Water",
    "Modifier": "",
@@ -405,6 +440,7 @@
    "Damage": ""
  },
  {
+   "Category": "Arcana",
    "Rank": "SS",
    "Ability": "Fatal Eclipse",
    "Modifier": "Omni",
@@ -413,7 +449,8 @@
    "ElementEffect": "",
    "Damage": "Extreme"
  },
- {
+ { 
+   "Category": "Arcana",
    "Rank": "SS",
    "Ability": "Crimson Flare",
    "Modifier": "Omni",
